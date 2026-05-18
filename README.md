@@ -95,13 +95,26 @@ Quick access to emergency helpline numbers:
 |-------------|-------------|
 | ![Login](Assets/swasthAI/login.jpeg) | ![Signup](Assets/swasthAI/register.jpeg) |
 
-| Home Page | Firebase Integration |
+| Home Page | About Page |
 |------------|---------------------|
-| ![Home](assets/Screenshot/3.png) | ![Dairy Writing](assets/Screenshot/4.png) |
+| ![Home](Assets/swasthAI/dashboard.jpeg) | ![About](Assets/swasthAI/About-app.jpeg) |
 
 
-#  Scan Result
-![Scan Result](Assets/swasthAI/scan-result.jpeg)
+| Symptom | Skin scanner |
+|-------------|-------------|
+| ![Symptom](Assets/swasthAI/symptoms_result.jpeg) | ![Scanner-skin](Assets/swasthAI/ai-skin-scanner.jpeg) |
+
+| AI SCAN | Scan 2 |
+|------------|---------------------|
+| ![Scan1](Assets/swasthAI/aiscan.jpeg) | ![scan2](Assets/swasthAI/scanresult1.jpeg) |
+
+| AI SCAN 3 | health-tips |
+|------------|---------------------|
+| ![Scan1](Assets/swasthAI/scanresult2.jpeg) | ![tips](Assets/swasthAI/health-tips.jpeg) |
+
+| Scan Result|
+|------------|
+![Symptomst](Assets/swasthAI/symptoms_result.jpeg)
 
 
 # 📂 Project Structure
