@@ -147,7 +147,7 @@ Configure Firebase in Flutter
 ##  App Features
 
 ###  Login Screen
-![Login](Assets/swasthAI/login.jpeg)
+![Login](./Assets/swasthAI/login.jpeg)
 
 ###  Register Screen
 ![Register](Assets/swasthAI/register.jpeg)
