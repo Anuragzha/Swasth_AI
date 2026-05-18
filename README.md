@@ -93,7 +93,7 @@ Quick access to emergency helpline numbers:
 
 | Login Page | Signup Page |
 |-------------|-------------|
-| ![Login](Assets/swasthAI/scan-result.jpeg) | ![Signup](assets/Screenshot/2.png) |
+| ![Login](Assets/swasthAI/login.jpeg) | ![Signup](Assets/swasthAI/register.jpeg) |
 
 | Home Page | Firebase Integration |
 |------------|---------------------|
