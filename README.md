@@ -146,35 +146,15 @@ Configure Firebase in Flutter
 
 ##  App Features
 
-###  Login Screen
-![Login](https://raw.githubusercontent.com/Anuragzha/Swasth_AI/main/Assets/swasthAI/login.jpeg)
+##  Screenshots
 
-###  Register Screen
-![Register](Assets/swasthAI/register.jpeg)
+| Login Page | Signup Page |
+|-------------|-------------|
+| ![Login](Assets/swasthAI/scan-result.jpeg) | ![Signup](assets/Screenshot/2.png) |
 
-###  Dashboard
-![Dashboard](Assets/swasthAI/dashboard.jpeg)
-
-###  About App
-![About App](Assets/swasthAI/About-app.jpeg)
-
-### 🩺 Symptoms Result
-![Symptoms Result](Assets/swasthAI/symptoms_result.jpeg)
-
-### 🌿 Home Remedies
-![Home Remedies](Assets/swasthAI/home-remedies.jpeg)
-
-###  Health Tips
-![Health Tips](Assets/swasthAI/health-tips.jpeg)
-
-###  AI Skin Scanner
-![AI Skin Scanner](Assets/swasthAI/ai-skin-scanner.jpeg)
-
-###  AI Scan
-![AI Scan](Assets/swasthAI/aiscan.jpeg)
-
-###  Scanner Result
-![Scanner Result](Assets/swasthAI/scanneresult1.jpeg)
+| Home Page | Firebase Integration |
+|------------|---------------------|
+| ![Home](assets/Screenshot/3.png) | ![Dairy Writing](assets/Screenshot/4.png) |
 
 ###  Scan Result
 ![Scan Result](Assets/swasthAI/scan-result.jpeg)
