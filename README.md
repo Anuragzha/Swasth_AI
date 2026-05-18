@@ -144,8 +144,18 @@ Configure Firebase
 Add google-services.json
 Configure Firebase in Flutter
 
-## Screenshots
-assets/screenshots/
+## APP Features
+Assets/swasthAI/login.jpeg
+Assets/swasthAI/register.jpeg
+Assets/swasthAI/dashboard.jpeg
+Assets/swasthAI/About-app.jpeg
+Assets/swasthAI/symptoms_result.jpeg
+Assets/swasthAI/home-remedies.jpeg
+Assets/swasthAI/health-tips.jpeg
+Assets/swasthAI/ai-skin-scanner.jpeg
+Assets/swasthAI/aiscan.jpeg
+Assets/swasthAI/scanresult1.jpeg
+Assets/swasthAI/scan-result.jpeg
 
 
 🎯 Objectives
