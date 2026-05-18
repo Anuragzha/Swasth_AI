@@ -87,6 +87,22 @@ Quick access to emergency helpline numbers:
 | Local JSON/Dart Data | Offline Data Handling |
 
 ---
+#  App Features
+
+#  Screenshots
+
+| Login Page | Signup Page |
+|-------------|-------------|
+| ![Login](Assets/swasthAI/scan-result.jpeg) | ![Signup](assets/Screenshot/2.png) |
+
+| Home Page | Firebase Integration |
+|------------|---------------------|
+| ![Home](assets/Screenshot/3.png) | ![Dairy Writing](assets/Screenshot/4.png) |
+
+
+#  Scan Result
+![Scan Result](Assets/swasthAI/scan-result.jpeg)
+
 
 # 📂 Project Structure
 
