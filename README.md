@@ -144,27 +144,49 @@ Configure Firebase
 Add google-services.json
 Configure Firebase in Flutter
 
-## APP Features
-Assets/swasthAI/login.jpeg
-Assets/swasthAI/register.jpeg
-Assets/swasthAI/dashboard.jpeg
-Assets/swasthAI/About-app.jpeg
-Assets/swasthAI/symptoms_result.jpeg
-Assets/swasthAI/home-remedies.jpeg
-Assets/swasthAI/health-tips.jpeg
-Assets/swasthAI/ai-skin-scanner.jpeg
-Assets/swasthAI/aiscan.jpeg
-Assets/swasthAI/scanresult1.jpeg
-Assets/swasthAI/scan-result.jpeg
+##  App Features
+
+###  Login Screen
+![Login](Assets/swasthAI/login.jpeg)
+
+###  Register Screen
+![Register](Assets/swasthAI/register.jpeg)
+
+###  Dashboard
+![Dashboard](Assets/swasthAI/dashboard.jpeg)
+
+###  About App
+![About App](Assets/swasthAI/About-app.jpeg)
+
+### 🩺 Symptoms Result
+![Symptoms Result](Assets/swasthAI/symptoms_result.jpeg)
+
+### 🌿 Home Remedies
+![Home Remedies](Assets/swasthAI/home-remedies.jpeg)
+
+###  Health Tips
+![Health Tips](Assets/swasthAI/health-tips.jpeg)
+
+###  AI Skin Scanner
+![AI Skin Scanner](Assets/swasthAI/ai-skin-scanner.jpeg)
+
+###  AI Scan
+![AI Scan](Assets/swasthAI/aiscan.jpeg)
+
+###  Scanner Result
+![Scanner Result](Assets/swasthAI/scanneresult1.jpeg)
+
+###  Scan Result
+![Scan Result](Assets/swasthAI/scan-result.jpeg)
 
 
-🎯 Objectives
+### Objectives
 Improve healthcare accessibility
 Provide quick symptom-based guidance
 Support wellness awareness
 Create an easy-to-use healthcare interface
 
-Disclaimer
+### Disclaimer
 
 SwasthAI is intended for educational and informational purposes only.
 
@@ -172,15 +194,15 @@ This application does not replace professional medical consultation, diagnosis, 
 
 Users should consult qualified healthcare professionals for serious medical conditions.
 
-Future Enhancements
+### Future Enhancements
 AI-based disease prediction
 Multi-language support
 Personalized health tracking
 Advanced analytics
 Cloud database integration
 
-Developer
-Anurag Kumar jha
+### Developer
+## Anurag Kumar jha
 
 
 ⭐ Support
