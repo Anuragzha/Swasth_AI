@@ -18,7 +18,7 @@ class _ScanScreenState extends State<ScanScreen> {
   final ImagePicker _picker = ImagePicker();
 
   // 🔑 PASTE YOUR WORKING API KEY HERE (The one from your Chatbot)
-  static const String _apiKey = 'AIzaSyB1cq0dxFRxdOix6qtYxtTw9PKXxHJbvRw';
+  static const String _apiKey = 'Your Key';
 
   // 📷 Pick Image
   Future<void> _pickImage() async {
