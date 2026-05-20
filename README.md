@@ -14,7 +14,7 @@
 
 ---
 
-# 📖 About The Project
+#  About The Project
 
 SwasthAI is a Flutter-based healthcare assistance application designed to provide users with:
 
@@ -28,37 +28,37 @@ The application combines local datasets with cloud-based authentication and API 
 
 ---
 
-# ✨ Features
+#  Features
 
-## 🩺 Symptom Checker
+##  Symptom Checker
 - Select symptoms from predefined lists
 - Get possible disease suggestions
 - Receive basic healthcare advice
 
 ---
 
-## 📷 Scan Image
+##  Scan Image
 - Capture or upload images
 - Detect possible skin-related issues
 - API-based image analysis integration
 
 ---
 
-## 🌿 Herbal Care
+##  Herbal Care
 - Natural remedies for common health problems
 - Usage instructions included
 - Warnings and precautions provided
 
 ---
 
-## 📖 Health Tips
+##  Health Tips
 - Wellness and hygiene guidance
 - Preventive healthcare recommendations
 - Daily health awareness tips
 
 ---
 
-## 🚨 SOS / Emergency Support
+##  SOS / Emergency Support
 Quick access to emergency helpline numbers:
 
 | Service | Number |
@@ -69,14 +69,17 @@ Quick access to emergency helpline numbers:
 
 ---
 
-## 📘 Guide Section
+##  Guide Section
 - Application usage instructions
 - Health awareness guidance
 - Feature explanations
 
 ---
+# Soon APK file will be uploaded
 
-# 🛠️ Tech Stack
+---
+
+#  Tech Stack
 
 | Technology | Purpose |
 |------------|----------|
@@ -117,7 +120,7 @@ Quick access to emergency helpline numbers:
 ![Symptomst](Assets/swasthAI/symptoms_result.jpeg)
 
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash
 lib/
@@ -151,22 +154,22 @@ lib/
 │
 └── main.dart
 
-# 🚀 Installation Guide
+#  Installation Guide
 
-## 1️⃣ Clone Repository
+## 1️ Clone Repository
 
 ```bash
 git clone https://github.com/Anuragzha/swasthai.git
 
-## 2️⃣ Open Project
+## 2️ Open Project
 ```bash
 cd swasthai
-##3️⃣ Install Dependencies
+##3️ Install Dependencies
 flutter pub get
-## 4️⃣ Run Application
+## 4️ Run Application
 flutter run
 
-🔐 Firebase Setup
+ Firebase Setup
 Enable Firebase Authentication
 Email/Password Authentication
 Configure Firebase
@@ -214,7 +217,7 @@ Cloud database integration
 ## Anurag Kumar jha
 
 
-⭐ Support
+ Support
 
 If you found this project useful:
 
